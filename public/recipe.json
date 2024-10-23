@@ -1,0 +1,93 @@
+[
+    {
+      "recipe_img": "https://www.afamilyfeast.com/wp-content/uploads/2013/07/Grilled-Basil-Garlic-Chicken-2.jpg",
+      "recipe_id": "RCP001",
+      "recipe_name": "Grilled Basil Chicken",
+      "description": "Juicy chicken breast marinated with basil and spices, grilled to perfection.",
+      "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaf", "400 g mushroom"],
+      "preparing_time": 35,
+      "calories": 600
+    },
+    {
+      "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUBvEHFShQ_0akEZSZfeus7nnRSQNGhtR7Cw&s",
+      "recipe_id": "RCP002",
+      "recipe_name": "Herb Crusted Salmon",
+      "description": "Salmon fillet crusted with herbs and served with a lemon butter sauce.",
+      "ingredients": ["400 g salmon", "2 tbsp olive oil", "30 g parsley", "1 lemon"],
+      "preparing_time": 25,
+      "calories": 450
+    },
+    {
+      "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeCCHpTHvftmZhYY3KmmnCzh2ipKspl4To7A&s",
+      "recipe_id": "RCP003",
+      "recipe_name": "Butternut Squash Soup",
+      "description": "A creamy soup made from roasted butternut squash, onions, and spices.",
+      "ingredients": ["1 kg butternut squash", "2 onions", "3 garlic cloves", "500 ml vegetable broth"],
+      "preparing_time": 50,
+      "calories": 300
+    },
+    {
+      "recipe_img": "https://assets.epicurious.com/photos/5aff26dd31403c2d2eb85373/1:1/w_1920,c_limit/pan-seared-rib-eye-with-miso-butter-recipe-051818.jpg",
+      "recipe_id": "RCP004",
+      "recipe_name": "Seared Ribeye Steak",
+      "description": "A perfectly seared ribeye steak, seasoned with salt and pepper.",
+      "ingredients": ["350 g ribeye steak", "Salt", "Black pepper", "2 tbsp butter"],
+      "preparing_time": 20,
+      "calories": 700
+    },
+    {
+      "recipe_img": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2023-06-chicken-alfredo-pasta-reshoot%2Fchicken-alfredo-pasta-2-vertical",
+      "recipe_id": "RCP005",
+      "recipe_name": "Pasta Alfredo",
+      "description": "Creamy Alfredo sauce over fettuccine pasta topped with Parmesan cheese.",
+      "ingredients": ["300 g fettuccine", "200 ml cream", "100 g Parmesan", "2 garlic cloves"],
+      "preparing_time": 30,
+      "calories": 650
+    },
+    {
+      "recipe_img": "https://preppykitchen.com/wp-content/uploads/2022/03/Chocolate-Lava-Cake-Recipe.jpg",
+      "recipe_id": "RCP006",
+      "recipe_name": "Chocolate Lava Cake",
+      "description": "A rich molten chocolate cake served warm with a gooey center.",
+      "ingredients": ["200 g dark chocolate", "100 g butter", "150 g sugar", "3 eggs"],
+      "preparing_time":35,
+      "calories": 550
+    },
+    {
+      "recipe_img": "https://www.allrecipes.com/thmb/mXZ0Tulwn3x9_YB_ZbkiTveDYFE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229063-Classic-Restaurant-Caesar-Salad-ddmfs-4x3-231-89bafa5e54dd4a8c933cf2a5f9f12a6f.jpg",
+      "recipe_id": "RCP007",
+      "recipe_name": "Caesar Salad",
+      "description": "Classic Caesar salad with crisp romaine, Parmesan, and croutons.",
+      "ingredients": ["200 g romaine lettuce", "50 g Parmesan", "100 g croutons", "Caesar dressing"],
+      "preparing_time": 15,
+      "calories": 300
+    },
+    {
+      "recipe_img": "https://ohsweetbasil.com/wp-content/uploads/four-cheese-margherita-pizza-recipe-12-scaled.jpg",
+      "recipe_id": "RCP008",
+      "recipe_name": "Margherita Pizza",
+      "description": "Neapolitan-style pizza topped with fresh mozzarella and basil.",
+      "ingredients": ["500 g pizza dough", "200 g mozzarella", "150 g tomato sauce", "Basil leaves"],
+      "preparing_time":45,
+      "calories": 700
+    },
+    {
+      "recipe_img": "https://s3-eu-west-1.amazonaws.com/images-olympus/products/8165690_details.jpg",
+      "recipe_id": "RCP009",
+      "recipe_name": "Sushi Platter",
+      "description": "An assortment of fresh nigiri and maki sushi, served with soy sauce.",
+      "ingredients": ["500 g sushi rice", "200 g tuna", "150 g salmon", "Seaweed sheets"],
+      "preparing_time": 60,
+      "calories": 500
+    },
+    {
+      "recipe_img": "https://www.cottagedelight.co.uk/wp-content/uploads/2021/01/Classic-Burger-gourmet-Burger-Sauce-692x495.jpg",
+      "recipe_id": "RCP010",
+      "recipe_name": "Gourmet Beef Burger",
+      "description": "Juicy beef patty served in a brioche bun with cheddar and caramelized onions.",
+      "ingredients": ["200 g beef patty", "1 brioche bun", "50 g cheddar", "Caramelized onions"],
+      "preparing_time": 25,
+      "calories": 800
+    }
+  ]
+  
